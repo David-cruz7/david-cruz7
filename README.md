@@ -4,7 +4,7 @@ HOLA 👋
 
 Informacion Acerca de mi:
 
-😄 Mi nombre es David Cruz Hernandez, trngo 22 años, Actualmente estoy Cursando la Licenciatura En Computacion, M gusta el desarrolo de videojuegos, el mantenimiento de Eqipos de computo, y las redes,
+😄 Mi nombre es David Cruz Hernandez, trengo 22 años, Actualmente estoy Cursando la Licenciatura En Computacion, Me gusta el desarrolo de videojuegos, el mantenimiento de Eqipos de computo, y las redes,
 
 🧗 💻 Atualmente Estoy Trabajando:
 me encuetro Participando con mis compañero de la universidad en el desarrollo de un control de inventario
